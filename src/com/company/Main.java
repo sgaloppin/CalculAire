@@ -14,5 +14,6 @@ public class Main {
         System.out.println("L'aire du premier triangle de la liste est : " + test.triTab.get(0).aire());
         System.out.println("Test static methode" + Geometrie.SomePerimCarre(test.carreTab));
         Affichage.affichage(test);
+        Affichage.affichage(test);
     }
 }
